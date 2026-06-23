@@ -1,4 +1,4 @@
-print("Programa: Ordenar tres números de forma creciente.")
+print("Bienvenido al sistema de ordenamiento de 3 números distintos.")
 num1 = float(input("Ingrese un numero: "))
 num2 = float(input("Ingrese otro numero: "))
 num3 = float(input("Ingrese otro numero: "))
